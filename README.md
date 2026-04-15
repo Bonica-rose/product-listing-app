@@ -56,7 +56,7 @@ Component 4
 ![FilterSort](./screenshots/FilterSort.png)
 
 Component 5
-![ProductCard](./screenshots/ProductCard.png)
+![ProductList](./screenshots/ProductList.png)
 
 Component 6
-![ProductList](./screenshots/ProductList.png)
+![ProductCard](./screenshots/ProductCard.png)
