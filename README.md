@@ -42,14 +42,21 @@ npm install
 npm run dev
 
 ### Screenshots
+
+Component 1
 ![Navbar](./screenshots/Navbar.png)
 
+Component 2
 ![Header](./screenshots/Header.png)
 
+Component 3
 ![SearchBar](./screenshots/SearchBar.png)
 
+Component 4
 ![FilterSort](./screenshots/FilterSort.png)
 
+Component 5
 ![ProductCard](./screenshots/ProductCard.png)
 
+Component 6
 ![ProductList](./screenshots/ProductList.png)
