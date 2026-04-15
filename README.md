@@ -30,7 +30,7 @@ Array Methods (map, filter, sort)
 ## Installation & Setup
 
 - Clone the repository:
-git clone https://github.com/your-username/product-listing-app.git
+git clone https://github.com/Bonica-rose/product-listing-app.git
 
 - Navigate to project folder:
 cd product-listing-app
@@ -41,22 +41,28 @@ npm install
 - Start development server:
 npm run dev
 
-### Screenshots
+## Screenshots
 
-Component 1
+### Navbar
 ![Navbar](./screenshots/Navbar.png)
 
-Component 2
+### Header
 ![Header](./screenshots/Header.png)
 
-Component 3
+### Search Bar
 ![SearchBar](./screenshots/SearchBar.png)
 
-Component 4
+### Filter & Sort
 ![FilterSort](./screenshots/FilterSort.png)
 
-Component 5
+### Product List
 ![ProductList](./screenshots/ProductList.png)
 
-Component 6
+### Product Card
 ![ProductCard](./screenshots/ProductCard.png)
+
+## Acknowledgement
+Built as part of React learning assignment
+
+## Author
+Sonia Rachel Sunny
