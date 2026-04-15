@@ -43,8 +43,13 @@ npm run dev
 
 ### Screenshots
 ![Navbar](./screenshots/Navbar.png)
+
 ![Header](./screenshots/Header.png)
+
 ![SearchBar](./screenshots/SearchBar.png)
+
 ![FilterSort](./screenshots/FilterSort.png)
+
 ![ProductCard](./screenshots/ProductCard.png)
+
 ![ProductList](./screenshots/ProductList.png)
