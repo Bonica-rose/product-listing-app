@@ -29,17 +29,17 @@ Array Methods (map, filter, sort)
 
 ## Installation & Setup
 
-- Clone the repository:
-git clone https://github.com/Bonica-rose/product-listing-app.git
+1. Clone the repository
+   `git clone https://github.com/Bonica-rose/product-listing-app.git`
 
-- Navigate to project folder:
-cd product-listing-app
+2. Navigate to project folder
+   `cd product-listing-app`
 
-- Install dependencies:
-npm install
+3. Install dependencies
+   `npm install`
 
-- Start development server:
-npm run dev
+4. Start development server
+   `npm run dev`
 
 ## Screenshots
 
