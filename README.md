@@ -15,12 +15,12 @@ Rating
 - Reusable components
 
 ## Concepts Used
-React Functional Components
-Props
-useState
-Event Handling
-Conditional Rendering
-Array Methods (map, filter, sort)
+- React Functional Components
+- Props
+- useState
+- Event Handling
+- Conditional Rendering
+- Array Methods (map, filter, sort)
 
 ## Tech Used
 - React
