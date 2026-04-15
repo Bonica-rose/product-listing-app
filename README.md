@@ -8,8 +8,8 @@ This project demonstrates core React concepts like components, state management,
 - Search products by name
 - Filter products by category
 - Sort products by:
-Price (Low → High / High → Low)
-Rating
+   - Price (Low → High / High → Low)
+   - Rating
 - Add to Cart button (logs product name)
 - Clean UI with responsive design
 - Reusable components
